@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fruit.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fruit instance 10000" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10001" x="1436" y="0" width="1487" height="523" frameX="-9" frameY="-36" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10002" x="0" y="554" width="1504" height="513" frameX="0" frameY="-46" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10003" x="1504" y="554" width="1502" height="514" frameX="-1" frameY="-45" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10004" x="0" y="1068" width="1498" height="516" frameX="-3" frameY="-43" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10005" x="1498" y="1068" width="1454" height="543" frameX="-25" frameY="-15" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10006" x="0" y="1611" width="1434" height="556" frameX="-35" frameY="-2" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10007" x="1434" y="1611" width="1429" height="558" frameX="-38" frameY="0" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10008" x="0" y="2169" width="1433" height="556" frameX="-36" frameY="-2" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10009" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10010" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10011" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10012" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10013" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+	<SubTexture name="fruit instance 10014" x="0" y="0" width="1436" height="554" frameX="-34" frameY="-4" frameWidth="1504" frameHeight="559"/>
+</TextureAtlas>
