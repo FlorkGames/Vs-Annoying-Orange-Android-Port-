@@ -1,0 +1,32 @@
+{
+	"storyName": "vs annoying orange",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "orange",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"not-a-knife",
+			"orange",
+			[
+				26,
+				13,
+				153
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
