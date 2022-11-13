@@ -30,8 +30,8 @@ function onEvent(name, value1, value2)
 	end
 end
 
-function onUpdate()
-   if canDodge == true and keyJustPressed('space') then
+function onUpdate() --getmouse, posicion del boton
+   if canDodge == true and (getMouseX('camHUD') > 1150 and getMouseX('camHUD') < 1280) and (getMouseY('camHUD') > 582.5 and getMouseY('camHUD') < 720 and mousePressed('left')) then
    
    Dodged = true;
    playSound('Dodged', 0.7);
